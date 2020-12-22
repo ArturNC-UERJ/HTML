@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+
+<head>
+	<meta charset="UTF-8"/>
+	<title> Curso de HTML5 </title>
+	<style>
+		h1 {
+			font-family: Impact;
+			font-size: 180pt;
+			color: orange;
+			text-shadow: 10px 10px black;
+		}
+		h2 {
+			font-family: Arial;
+			font-size: 20pt;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>OLÁ, MUNDO!</h1>
+	<h2>Este é o inicio da minha jornada com HTML5.</h2>
+</body>
+
+</html>
